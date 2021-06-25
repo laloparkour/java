@@ -1,0 +1,39 @@
+
+Manipular ficheros y directorios donde se este manipulando ficheros y directorios
+de la maquina guesped donde se esta ejecutando el programa java
+
+Que podemos hacer al manipular un archivo?
+* Ver que archivos puede haber en una ruta, hacer un listado
+* Ver las propiedades de los archivos y directorios(lectura y escritura)
+* Borrar los archivos que hay
+
+Clase File
+Tiene sobrecarga de constructores, tiene 4 constructores
+
+La clase cuenta con 6 metodos
+* String getAbsolutePath() - ruta absoluta de un archivo o directorio
+* String getPath()
+* String getCanonicalPath()
+* Boolean exists() - especifica si un archivo o directorio existe en una ruta especificada
+* String[] list() - retorna un arreglo de strings con los nombres y directorios que se encuentran
+dentro de la ruta especificada
+* Boolean isDirectory()
+
+String getAbsolutePath()
+
+Si no especificamos ruta toma por defecto la ruta en donde estamos almacenando el proyecto
+
+Comentarios:
+	Estos comentarios son de gran importancia para cualquier programador, ya que le permiten
+	entender el código fuente de manera sencilla, sin tener que revisar la estructura lógica
+	del programa.
+	Estos son ignorados por el compilador, por lo que no afectan la funcionalidad de los
+	programas.
+POO: 
+	La POO, es una manera de diseñar y desarrollar software que trata de imitar la realidad
+	tomando algunos conceptos escenciales de ella.
+	EL primero es el de objeto, cuyo rasgo es la identidad el estado y el comportamiento.
+	La identidad es el nombre que distingo a uno de otro.
+	El estado son las caracteísticas que lo describen al objeto.
+	El comportamiento, es lo que puede hacer el objeto.
+	

@@ -1,0 +1,14 @@
+
+Scene Builder, libreria jfoenix		
+
+Punto de venta, pantalla touch para quien hara el pedido
+interfaz para la persona que atiende la caja, para hacer el pedido y cobrar
+javafx con fxml con jfoenix
+	
+-----------------------
+
+JavaFX
+
+(JDK) Java Development Kit: son una serie de herramientas para poder programar en java, correr aplicaciones.
+
+(Java RE) Java Runtime Environment: nos permite ejecutar aplicaciones echas en java.

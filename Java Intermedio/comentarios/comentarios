@@ -1,0 +1,18 @@
+¿Que son los comentarios? En programación, los comentarios son anotaciones legibles, que el programador
+agrega dentro del código fuente.
+
+Estos comentarios, son de gran importancia para cualquier programador, ya que le permiten entender el
+código fuente de manera sencilla, sin tener que revisar la estructura lógica del programa.
+
+Pero al mismo tiempo, los comentarios son usualmente ignorados por el compilador  e interprete, por lo
+que no afecta de ninguna manera la funcionalidad de nuestros programas.
+
+Ejemplo:
+	//Esto es un comentario de una sola linea
+	
+	/*Esto es 
+	 *un comentario 
+	 *multilinea
+	 */
+	 
+JavaDoc nos permite documentar todo lo referente de nuestro programa atravez de los comentarios

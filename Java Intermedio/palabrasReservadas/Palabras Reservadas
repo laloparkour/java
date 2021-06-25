@@ -1,0 +1,8 @@
+Palabras reservadas en java: Son palabras, que solo el lenguaje de programacion Java, puede utilizar
+como identificadores, por que tiene una funcion especial.
+
+Por tal motivo, no pueden ser utilizadas por el programador, como identificadores para sus programas.
+
+Ejemplo:
+	Correcto: int nombre_variable = 0;
+	Incorrecto: int for = 0;

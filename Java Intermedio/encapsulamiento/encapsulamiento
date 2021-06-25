@@ -1,0 +1,31 @@
+Atributos: son las variables que contiene nuestra clase.
+Métodos: son las funciones que va a realizar nuestra clase.
+
+Encapsulamiento: consiste en controlar el acceso a los datos, que conforman un objeto o 
+instancia que conforman un objeto o instancia de una clase.
+
+Es decir, indicar que métodos y atributos son públicos, para poder revisar su contenido e
+incluso ser modificados.
+
+Y a su vez indicar que métodos y atributos son privados, para evitar el acceso a su contenido
+o que se realice alguna modificación en ellos.
+
+En conclusión, el encapsulamiento consiste en ocultar los atributos y métodos de una clase,
+para evitar que sean modificados desde otra clase.
+
+Esto es con el fin de que cuando otro programador utilice nuestra clase, no pueda cambiar
+su estado o comportamiento de manera impresvista o incontrolada.
+
+Para poder realizar la encapsulacion en llava es necesario utilizar los modificadores 
+de acceso.
+
+Los modificadores de acceso permiten dar un nivel de seguridad mayor a nuestrar aplicaciones
+restringiendo el acceso a diferentes atributos, métodos o constructores asegurándonos que el
+usuario deba seguir una "ruta" especificada por nosotros para acceder a la información.
+
+Existen cuatro modificadores de acceso:
+
+public:
+default:
+protected:
+private: 
